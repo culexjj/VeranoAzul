@@ -14,7 +14,9 @@ import javax.swing.JPanel;
 /**
  * @author edmond duke
  * @author MODIFICADO culex.jj
+ * @version  0.1.1 (10/08/2022)
  */
+
 public class frmAcercaDe extends JFrame implements ActionListener{
     private JButton cmdSalir;
     private JLabel lblTitulo, lblDescripcion,lblIcono,lbl1,lbl2,lbl3;

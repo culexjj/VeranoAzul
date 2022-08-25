@@ -1,6 +1,7 @@
 /**
  * @author edmond duke
  * @author MODIFICADO culex.jj
+ * @version  0.1.1 (10/08/2022)
  */
 
 public class separaSilabas {
@@ -337,16 +338,6 @@ public class separaSilabas {
             		s2 = s2 + splitTmp[r] + " ";
             	}
         	}
-        	
-        	
-        	/*
-        	if (r>=1) {
-        		s2 = s2 + splitTmp[r] + "-";
-        	} else {
-        		s2 = s2 + splitTmp[r] + " ";
-        	} */
-        	
-        	//s2 = s2 + splitTmp[r] + " ";
         }
         
         s = s2; //new        

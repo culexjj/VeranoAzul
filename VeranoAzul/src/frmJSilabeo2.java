@@ -1,6 +1,7 @@
 /**
  * @author edmond duke
  * @author MODIFICADO culex.jj
+ * @version  0.1.1 (10/08/2022)
  */
 import java.awt.Font;
 import java.awt.GridLayout;
