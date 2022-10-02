@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 /**
  * @author edmond duke
  * @author MODIFICADO culex.jj
- * @version  0.1.2 (01/10/2022)
+ * @version  0.1.2 (02/10/2022)
  */
 
 public class frmAcercaDe extends JFrame implements ActionListener{

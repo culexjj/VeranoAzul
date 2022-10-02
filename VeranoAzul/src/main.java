@@ -1,7 +1,7 @@
 /**
  * @author edmond duke
  * @author MODIFICADO culex.jj
- * @version  0.1.2 (01/10/2022)
+ * @version  0.1.2 (02/10/2022)
  */
 
 import javax.swing.JFrame;
